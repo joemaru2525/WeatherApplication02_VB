@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\WeatherApplication02_VB\WeatherApplication02\WeatherApplication02\obj\Debug\WeatherApplication02.vbprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\WeatherApplication02_VB\WeatherApplication02\WeatherApplication02\obj\Debug\WeatherApplication02.FormWeather.resources
+C:\Users\user\source\repos\WeatherApplication02_VB\WeatherApplication02\WeatherApplication02\obj\Debug\WeatherApplication02.Resources.resources
+C:\Users\user\source\repos\WeatherApplication02_VB\WeatherApplication02\WeatherApplication02\obj\Debug\WeatherApplication02.vbproj.GenerateResource.Cache
+C:\Users\user\source\repos\WeatherApplication02_VB\WeatherApplication02\WeatherApplication02\obj\Debug\WeatherApplication02.vbproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\WeatherApplication02_VB\WeatherApplication02\WeatherApplication02\bin\Debug\WeatherApplication02.exe.config
+C:\Users\user\source\repos\WeatherApplication02_VB\WeatherApplication02\WeatherApplication02\bin\Debug\WeatherApplication02.exe
+C:\Users\user\source\repos\WeatherApplication02_VB\WeatherApplication02\WeatherApplication02\bin\Debug\WeatherApplication02.pdb
+C:\Users\user\source\repos\WeatherApplication02_VB\WeatherApplication02\WeatherApplication02\bin\Debug\WeatherApplication02.xml
+C:\Users\user\source\repos\WeatherApplication02_VB\WeatherApplication02\WeatherApplication02\bin\Debug\HtmlAgilityPack.dll
+C:\Users\user\source\repos\WeatherApplication02_VB\WeatherApplication02\WeatherApplication02\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\user\source\repos\WeatherApplication02_VB\WeatherApplication02\WeatherApplication02\bin\Debug\HtmlAgilityPack.xml
+C:\Users\user\source\repos\WeatherApplication02_VB\WeatherApplication02\WeatherApplication02\obj\Debug\WeatherApplication02.exe
+C:\Users\user\source\repos\WeatherApplication02_VB\WeatherApplication02\WeatherApplication02\obj\Debug\WeatherApplication02.xml
+C:\Users\user\source\repos\WeatherApplication02_VB\WeatherApplication02\WeatherApplication02\obj\Debug\WeatherApplication02.pdb
